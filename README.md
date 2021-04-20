@@ -16,6 +16,7 @@ FrontWEEK: Evento desenvolvido pelo Nasser Yousef, o evento durou 3 dias e foi c
 
 ### 🎉 Resultado <hr>
 
+<img alt="SPIDERMAN" src="https://ik.imagekit.io/atnyozbx9v/homen_aranha_72QQARLCV.jpg">
 <img alt="SPIDERMAN" src="https://ik.imagekit.io/atnyozbx9v/miranha1_RE9HCHmS8V.gif">
 
 <br><br><br>
