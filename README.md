@@ -6,8 +6,7 @@ SPIDER MAN 🕸
 
 ### 🧐 Sobre o desafio <hr>
 
-<p>Clique aqui para vizualizar o projeto <a href="https://franciellirodrigues.github.io/FOCUSTIMER-POMODORO/](https://franciellirodrigues.github.io/SPIDERMAN/
-)">link</a><p>
+<p>Clique aqui para vizualizar o projeto <a href="https://franciellirodrigues.github.io/SPIDERMAN/">link</a><p>
 FrontWEEK: Evento desenvolvido pelo Nasser Yousef, o evento durou 3 dias e foi contemplando 3 áreas: UI Design + Front-End + Motion Design.
 
 ### 🚨 Tecnologias <hr>
